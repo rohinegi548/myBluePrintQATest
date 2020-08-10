@@ -1,0 +1,72 @@
+{
+  "statistic" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 1
+  },
+  "time" : {
+    "minDuration" : 5331,
+    "maxDuration" : 5331,
+    "sumDuration" : 5331,
+    "start" : 1597088998979,
+    "stop" : 1597089004310,
+    "duration" : 5331
+  },
+  "children" : [ {
+    "uid" : "ae249e10e700eaf6",
+    "name" : "Product defects",
+    "time" : {
+      "minDuration" : 5331,
+      "maxDuration" : 5331,
+      "sumDuration" : 5331,
+      "start" : 1597088998979,
+      "stop" : 1597089004310,
+      "duration" : 5331
+    },
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "bfd6bf146a7772e7",
+      "name" : "Comic is not available for date: December  3, 2018",
+      "time" : {
+        "minDuration" : 5331,
+        "maxDuration" : 5331,
+        "sumDuration" : 5331,
+        "start" : 1597088998979,
+        "stop" : 1597089004310,
+        "duration" : 5331
+      },
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "103552e2eae53166",
+        "name" : "OpenComicForDates",
+        "time" : {
+          "start" : 1597088998979,
+          "stop" : 1597089004310,
+          "duration" : 5331
+        },
+        "status" : "failed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      } ]
+    } ]
+  } ]
+}

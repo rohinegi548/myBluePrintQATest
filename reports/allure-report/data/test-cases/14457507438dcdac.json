@@ -1,0 +1,119 @@
+{
+  "uid" : "14457507438dcdac",
+  "name" : "OpenComicForDates",
+  "fullName" : "monkeyuserApp.ComicTests.OpenComicForDates",
+  "historyId" : "688fee29cc92a1f510df5a65253a1853",
+  "time" : {
+    "start" : 1597089007557,
+    "stop" : 1597089010526,
+    "duration" : 2969
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "description" : "Verifying user can view a comic for Supplied Date",
+  "descriptionHtml" : "<p>Verifying user can view a comic for Supplied Date</p>",
+  "beforeStages" : [ {
+    "name" : "OpenBaseURL",
+    "time" : {
+      "start" : 1597089007224,
+      "stop" : 1597089007553,
+      "duration" : 329
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1597088965153,
+      "stop" : 1597088970945,
+      "duration" : 5792
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "statusDetails" : {
+      "flaky" : false
+    },
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c81221e2d60b541d",
+      "name" : "Comic: Programmers need alternatives to argue",
+      "source" : "c81221e2d60b541d.txt",
+      "type" : "text/plain",
+      "size" : 37
+    } ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1597089010586,
+      "stop" : 1597089011520,
+      "duration" : 934
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "monkeyuserApp.ComicTests"
+  }, {
+    "name" : "testClass",
+    "value" : "monkeyuserApp.ComicTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "OpenComicForDates"
+  }, {
+    "name" : "parentSuite",
+    "value" : "ComicSuite"
+  }, {
+    "name" : "suite",
+    "value" : "ComicTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "monkeyuserApp.ComicTests"
+  }, {
+    "name" : "host",
+    "value" : "A303598"
+  }, {
+    "name" : "thread",
+    "value" : "19196@A303598.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "May 30, 2017"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "uid" : "4964be02d874508e",
+  "name" : "OpenComicForDates",
+  "fullName" : "monkeyuserApp.ComicTests.OpenComicForDates",
+  "historyId" : "b9de7a1b65f1a39576ae073d461e4a2e",
+  "time" : {
+    "start" : 1597089004719,
+    "stop" : 1597089007222,
+    "duration" : 2503
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "description" : "Verifying user can view a comic for Supplied Date",
+  "descriptionHtml" : "<p>Verifying user can view a comic for Supplied Date</p>",
+  "beforeStages" : [ {
+    "name" : "OpenBaseURL",
+    "time" : {
+      "start" : 1597089004312,
+      "stop" : 1597089004710,
+      "duration" : 398
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1597088965153,
+      "stop" : 1597088970945,
+      "duration" : 5792
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "statusDetails" : {
+      "flaky" : false
+    },
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3ec629925c26005e",
+      "name" : "Comic: TBD",
+      "source" : "3ec629925c26005e.txt",
+      "type" : "text/plain",
+      "size" : 38
+    } ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1597089010586,
+      "stop" : 1597089011520,
+      "duration" : 934
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "monkeyuserApp.ComicTests"
+  }, {
+    "name" : "testClass",
+    "value" : "monkeyuserApp.ComicTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "OpenComicForDates"
+  }, {
+    "name" : "parentSuite",
+    "value" : "ComicSuite"
+  }, {
+    "name" : "suite",
+    "value" : "ComicTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "monkeyuserApp.ComicTests"
+  }, {
+    "name" : "host",
+    "value" : "A303598"
+  }, {
+    "name" : "thread",
+    "value" : "19196@A303598.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "June 19, 2018"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

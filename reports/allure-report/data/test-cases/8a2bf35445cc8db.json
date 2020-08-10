@@ -1,0 +1,99 @@
+{
+  "uid" : "8a2bf35445cc8db",
+  "name" : "UserViewsHistoryOFComics",
+  "fullName" : "monkeyuserApp.ComicTests.UserViewsHistoryOFComics",
+  "historyId" : "c46b76b55dda6237533f5675f196c552",
+  "time" : {
+    "start" : 1597088994754,
+    "stop" : 1597088996056,
+    "duration" : 1302
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "description" : "Verifying user can view comic History by years",
+  "descriptionHtml" : "<p>Verifying user can view comic History by years</p>",
+  "beforeStages" : [ {
+    "name" : "OpenBaseURL",
+    "time" : {
+      "start" : 1597088994427,
+      "stop" : 1597088994750,
+      "duration" : 323
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1597088965153,
+      "stop" : 1597088970945,
+      "duration" : 5792
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1597089010586,
+      "stop" : 1597089011520,
+      "duration" : 934
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "monkeyuserApp.ComicTests"
+  }, {
+    "name" : "testClass",
+    "value" : "monkeyuserApp.ComicTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "UserViewsHistoryOFComics"
+  }, {
+    "name" : "parentSuite",
+    "value" : "ComicSuite"
+  }, {
+    "name" : "suite",
+    "value" : "ComicTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "monkeyuserApp.ComicTests"
+  }, {
+    "name" : "host",
+    "value" : "A303598"
+  }, {
+    "name" : "thread",
+    "value" : "19196@A303598.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

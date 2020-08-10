@@ -1,0 +1,101 @@
+[ {
+  "uid" : "4964be02d874508e",
+  "name" : "OpenComicForDates",
+  "time" : {
+    "start" : 1597089004719,
+    "stop" : 1597089007222,
+    "duration" : 2503
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4756e76bdb2c89f",
+  "name" : "AddAnItemToCart",
+  "time" : {
+    "start" : 1597089019256,
+    "stop" : 1597089026848,
+    "duration" : 7592
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f18bc466a149a3d9",
+  "name" : "OpenComicForDates",
+  "time" : {
+    "start" : 1597088996467,
+    "stop" : 1597088998643,
+    "duration" : 2176
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a2bf35445cc8db",
+  "name" : "UserViewsHistoryOFComics",
+  "time" : {
+    "start" : 1597088994754,
+    "stop" : 1597088996056,
+    "duration" : 1302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14457507438dcdac",
+  "name" : "OpenComicForDates",
+  "time" : {
+    "start" : 1597089007557,
+    "stop" : 1597089010526,
+    "duration" : 2969
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "467963e897e31e71",
+  "name" : "UserViewsTheNextComic",
+  "time" : {
+    "start" : 1597088991021,
+    "stop" : 1597088994424,
+    "duration" : 3403
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20dbbd55eadf7a39",
+  "name" : "ViewsTheLatestComic",
+  "time" : {
+    "start" : 1597088984824,
+    "stop" : 1597088990560,
+    "duration" : 5736
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4c991021119919a",
+  "name" : "proceedToCheckout",
+  "time" : {
+    "start" : 1597089026852,
+    "stop" : 1597089033893,
+    "duration" : 7041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "103552e2eae53166",
+  "name" : "OpenComicForDates",
+  "time" : {
+    "start" : 1597088998979,
+    "stop" : 1597089004310,
+    "duration" : 5331
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd9d2e52aeae62a",
+  "name" : "ViewsARandomComic",
+  "time" : {
+    "start" : 1597088977461,
+    "stop" : 1597088984444,
+    "duration" : 6983
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

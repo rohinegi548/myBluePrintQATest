@@ -1,0 +1,85 @@
+{
+  "uid" : "4756e76bdb2c89f",
+  "name" : "AddAnItemToCart",
+  "fullName" : "monkeyuserApp.StoreTests.AddAnItemToCart",
+  "historyId" : "9701b5a402520209d485ca6aea371982",
+  "time" : {
+    "start" : 1597089019256,
+    "stop" : 1597089026848,
+    "duration" : 7592
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "description" : "Verifying if user can add a product to cart",
+  "descriptionHtml" : "<p>Verifying if user can add a product to cart</p>",
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1597089011522,
+      "stop" : 1597089019253,
+      "duration" : 7731
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1597089033914,
+      "stop" : 1597089034736,
+      "duration" : 822
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "monkeyuserApp.StoreTests"
+  }, {
+    "name" : "testClass",
+    "value" : "monkeyuserApp.StoreTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddAnItemToCart"
+  }, {
+    "name" : "parentSuite",
+    "value" : "StoreSuite"
+  }, {
+    "name" : "suite",
+    "value" : "StoreTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "monkeyuserApp.StoreTests"
+  }, {
+    "name" : "host",
+    "value" : "A303598"
+  }, {
+    "name" : "thread",
+    "value" : "19196@A303598.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

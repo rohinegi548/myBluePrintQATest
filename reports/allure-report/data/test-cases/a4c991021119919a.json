@@ -1,0 +1,85 @@
+{
+  "uid" : "a4c991021119919a",
+  "name" : "proceedToCheckout",
+  "fullName" : "monkeyuserApp.StoreTests.proceedToCheckout",
+  "historyId" : "d2cf01edb8f13ab9b0b3ec21b32371c0",
+  "time" : {
+    "start" : 1597089026852,
+    "stop" : 1597089033893,
+    "duration" : 7041
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "description" : "Verifying if Checkout Screen works",
+  "descriptionHtml" : "<p>Verifying if Checkout Screen works</p>",
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1597089011522,
+      "stop" : 1597089019253,
+      "duration" : 7731
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1597089033914,
+      "stop" : 1597089034736,
+      "duration" : 822
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "monkeyuserApp.StoreTests"
+  }, {
+    "name" : "testClass",
+    "value" : "monkeyuserApp.StoreTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "proceedToCheckout"
+  }, {
+    "name" : "parentSuite",
+    "value" : "StoreSuite"
+  }, {
+    "name" : "suite",
+    "value" : "StoreTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "monkeyuserApp.StoreTests"
+  }, {
+    "name" : "host",
+    "value" : "A303598"
+  }, {
+    "name" : "thread",
+    "value" : "19196@A303598.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}
