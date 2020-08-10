@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ComicSuite" verbose="10">
+	<test thread-count="5" name="ComicTest">
+
+		<classes>
+			<class name="monkeyuserApp.ComicTests" />
+		</classes>
+		
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
